@@ -1,0 +1,8 @@
+#!/bin/sh
+export GITHUB_SECRET=''
+export KB_BOT_USERNAME=''
+export KB_BOT_PAPERKEY=''
+export KB_TEAM=''
+export KB_CHANNEL=''
+export BUILD_CMD=$HOME/upgrade
+./webhook
